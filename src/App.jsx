@@ -8,7 +8,7 @@ const App = () => {
     <div>
       <Navbar />  
       <h1 className='wlm'>Welcome To C-Tech</h1>
-
+      <h2>Good</h2>
     </div>
   );
 }
